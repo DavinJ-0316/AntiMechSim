@@ -11,7 +11,7 @@ run the .exe files. File "antikythera_price" is the simulator of Price's reconst
 
 Operation of the mechanism can be performed by either the keyboard or the mouse.
 
-##Keyboard
+## Keyboard
 
 Key	Operation	
 
@@ -25,7 +25,7 @@ t,T	Toggle plates on and off
 +,-	Zoom in or out
 arrows	Move mechanism up, down, left, or right
 
-##Mouse
+## Mouse
 
 Left click and drag	Rotate mechanism
 Right click and drag	Move mechanism
