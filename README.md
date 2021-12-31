@@ -1,5 +1,5 @@
 # AntiMechSim
-These simulations were written in C++ as a senior year project by Fivos Asimakopoulos (email: fivasim at gmail.com)
+These simulations were written in C++ 
 
 These versions are preliminary ones, without much attention to the relative gear diameters or vertical positions. However, the teeth count of the gears and the operation are accurate.
 
